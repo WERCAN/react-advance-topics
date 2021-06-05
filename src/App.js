@@ -39,11 +39,11 @@ function App() {
       {/* <ClickCounter name="  muslum" />
       <HoverCounter />
       <User name={(isLogedIn) => isLogedIn? 'Welcome' : 'please try again'} /> */}
-      {/* <UserProvider value="context provider">
+      <UserProvider value="context provider">
         <CompC />
-      </UserProvider> */}
+      </UserProvider>
 
-      {/* <PostForm /> */}
+      <PostForm />
 
       {/* <HookCounter /> */}
 
@@ -65,8 +65,8 @@ function App() {
       {/* <DocTitleOne />
       <DocTitleTwo /> */}
 
-      {/* <CounterOne />
-      <CounterTwo /> */}
+      <CounterOne />
+      <CounterTwo />
 
       <UserForm />
     </div>
