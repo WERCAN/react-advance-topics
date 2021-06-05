@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-advance-topics/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-advance-topics/static/js/main.19efaa5c.chunk.js",
+    "main.js.map": "/react-advance-topics/static/js/main.19efaa5c.chunk.js.map",
+    "runtime-main.js": "/react-advance-topics/static/js/runtime-main.49c069c3.js",
+    "runtime-main.js.map": "/react-advance-topics/static/js/runtime-main.49c069c3.js.map",
+    "static/js/2.aedada10.chunk.js": "/react-advance-topics/static/js/2.aedada10.chunk.js",
+    "static/js/2.aedada10.chunk.js.map": "/react-advance-topics/static/js/2.aedada10.chunk.js.map",
+    "static/js/3.fc3ff866.chunk.js": "/react-advance-topics/static/js/3.fc3ff866.chunk.js",
+    "static/js/3.fc3ff866.chunk.js.map": "/react-advance-topics/static/js/3.fc3ff866.chunk.js.map",
+    "index.html": "/react-advance-topics/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-advance-topics/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.aedada10.chunk.js.LICENSE.txt": "/react-advance-topics/static/js/2.aedada10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49c069c3.js",
+    "static/js/2.aedada10.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.19efaa5c.chunk.js"
+  ]
+}
